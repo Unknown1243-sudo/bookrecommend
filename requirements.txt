@@ -3,7 +3,7 @@ streamlit
 numpy
 notebook
 scipy
-sklearn
+scikit-learn 
 
 ### local packages -
 -e . 

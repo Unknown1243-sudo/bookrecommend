@@ -16,11 +16,11 @@ here is a demo,
 
 # Demo:
 
-<img src="demo/1.png" alt="workflow" width="70%">
+<img src="demo/b1.jpeg" alt="workflow" width="70%">
 
-<img src="demo/4.png" alt="workflow" width="70%">
+<img src="demo/b2.jpeg" alt="workflow" width="70%">
 
-<img src="demo/3.png" alt="workflow" width="70%">
+<img src="demo/b3.jpeg" alt="workflow" width="70%">
 
 
 # Dataset has been used:

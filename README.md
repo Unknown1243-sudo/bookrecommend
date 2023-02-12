@@ -35,7 +35,7 @@ here is a demo,
 ### STEP 01- Clone the repository
 
 ```bash
-git clone https://github.com/atulgaikwad12/Books-Recommender-System-ML-Collabrative.git
+
 ```
 
 ### STEP 02- Download dataset and unzip it in data folder 
@@ -78,7 +78,7 @@ git add .
 git status
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/atulgaikwad12/Books-Recommender-System-ML-Collabrative.git
+
 git push -u origin main
 ```
 
